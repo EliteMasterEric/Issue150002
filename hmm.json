@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    {
+      "name": "hxjava",
+      "type": "haxelib",
+      "version": null
+    }
+  ]
+}
